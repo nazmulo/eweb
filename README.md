@@ -4,9 +4,7 @@ ShopNova is a modern and responsive e-commerce website built using **HTML, CSS, 
 
 ## 🌐 Live Website
 
-**Live Demo:** Add your deployed website URL here
-
-**GitHub Repository:** Add your GitHub repository URL here
+**Live Demo:** https://nazmulo.github.io/eweb/
 
 ---
 
@@ -58,30 +56,6 @@ ShopNova/
 ```
 
 ---
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-### 2. Open the Project
-
-Go to the project folder:
-
-```bash
-cd ShopNova
-```
-
-### 3. Run the Website
-
-Simply open:
-
-```text
-index.html
-```
 
 in your web browser.
 
@@ -195,17 +169,6 @@ Possible future features include:
 * 🛢️ MongoDB database
 * 🔐 Secure user authentication
 * 📧 Order confirmation emails
-
----
-
-## 👨‍💻 Author
-
-**Nazmul Hasan**
-
-Frontend Developer | JavaScript Learner
-
----
-
 ## 📄 License
 
 This project is created for educational and portfolio purposes.
