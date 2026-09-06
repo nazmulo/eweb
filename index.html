@@ -80,10 +80,33 @@
 
     </section>
 
+    <!-- Cart Overlay -->
+    <div id="cart-overlay" class="cart-overlay"></div>
 
+    <!-- Cart -->
+    <aside id="cart" class="cart">
 
+        <div class="cart-header">
+            <h2>Your Cart</h2>
+            <button id="close-cart">×</button>
+        </div>
 
+        <div id="cart-items" class="cart-items">
+            <p class="empty-cart">Your cart is empty.</p>
+        </div>
 
+        <div class="cart-footer">
+            <div class="subtotal">
+                <span>Subtotal</span>
+                <strong>$<span id="cart-total">0.00</span></strong>
+            </div>
+
+            <button class="checkout-btn">
+                Checkout →
+            </button>
+        </div>
+
+    </aside>
 
 
 </body>
